@@ -1,2 +1,2 @@
 # AndroidProject
-This is a mobile app developed using Java in Android Studio
+This is a mobile app for supermarket developed using Java in Android Studio
